@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50068845273",
+    "project_id": "finals-lab-actvity2",
+    "storage_bucket": "finals-lab-actvity2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50068845273:android:2ee65c1ee5dc492c1b84c8",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZOYx9WNOAg9ZvOSX5bglgzapwkutYOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
